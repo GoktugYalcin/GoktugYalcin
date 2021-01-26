@@ -41,13 +41,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/ordansutuvar"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="ordansutuvar"  height="30"  width="40"  /></a>
-
-<a href="https://linkedin.com/in/yalcing"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="yalcing"  height="30"  width="40"  /></a>
-
-<a href="https://instagram.com/gokyalcin6"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="gokyalcin6"  height="30"  width="40"  /></a>
-
-<a href="https://discord.gg/smoke#5575"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"  alt="smoke#5575"  height="30"  width="40"  /></a>
+<a href="https://twitter.com/ordansutuvar"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="ordansutuvar"  height="30"  width="40"  /></a><a href="https://linkedin.com/in/yalcing"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="yalcing"  height="30"  width="40"  /></a><a href="https://instagram.com/gokyalcin6"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="gokyalcin6"  height="30"  width="40"  /></a><a href="https://discord.gg/smoke#5575"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"  alt="smoke#5575"  height="30"  width="40"  /></a>
 
 </p>
 
