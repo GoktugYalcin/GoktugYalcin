@@ -33,7 +33,7 @@
 
   
 
--  📫 How to reach me **from goktugyalcin06@gmail.com or linkedin.com/in/yalcing/**
+-  📫 How to reach me **from goktugyalcin06@gmail.com or https://linkedin.com/in/yalcing/**
 
   
 
