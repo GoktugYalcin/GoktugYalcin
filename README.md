@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Goktug Yalcin</h1>
 
-<h3 align="center">Nowadays in pursuit of JavaScript</h3>
+<h3 align="center">Nowadays in pursuit of learnin' technologies</h3>
 
   
 
