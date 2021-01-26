@@ -29,7 +29,7 @@
 
   
 
--  💬 You can ask me about **React, NativeScript and related techs.**
+-  💬 You can ask me about **React, VanillaJS and related techs.**
 
   
 
