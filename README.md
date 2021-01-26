@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repos](my GitHub repos)
 
-- 📝 I will write articles on [my Medium(it will be updated)](my Medium(it will be updated))
+- 📝 I will write articles on my Medium(it will be updated)
 
 - 💬 You can ask me about **React, NativeScript and related techs.**
 
