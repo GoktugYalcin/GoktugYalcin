@@ -14,7 +14,7 @@ goktugyalcin@github:~$ ./welcome.sh
 ```
 
 ```
-trykatchup@github
+goktugyalcin@github
 -------------------------
 🏫 Bachelor's degree from @Sakarya
 🔎 Main interests in Frontend Development & IoT
